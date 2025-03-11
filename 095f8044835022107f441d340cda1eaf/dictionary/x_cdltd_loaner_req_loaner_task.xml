@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="742e2958835022107f441d340cda1ef2" extends="task" label="Loaner Task" max_length="40" name="x_cdltd_loaner_req_loaner_task" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Pick up reminder" max_length="40" name="pick_up_reminder" type="glide_date_time"/>
+    </element>
+</database>
